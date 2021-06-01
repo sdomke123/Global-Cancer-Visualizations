@@ -1,3 +1,5 @@
+# Global Cancer Visualizations Dashboard
+
 ## Overview
 An interactive visualizations dashboard that provides insights into global cancer statistics for 2017. Visitors to the site can view the entire dataset (World) or select a specific region to investigate. Phenomena examined include prevalence of cancer by age group, prevalence of cancer type for total populations, and total deaths by cancer type.
 
